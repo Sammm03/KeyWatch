@@ -1,5 +1,4 @@
-# KeyWatch
-Keystroke Behaviour Monitoring &amp; Anomaly Detection Dashboard
+# KeyWatch: Keystroke Behaviour Monitoring & Anomaly Detection Dashboard
 
 This project simulates a local keylogging system that captures and analyzes typing patterns in real time. 
 It detects anomalies using machine learning (Isolation Forest) based on `dwell time` and `flight time`.
